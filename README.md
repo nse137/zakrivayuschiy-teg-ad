@@ -1,1 +1,1 @@
-https://github.com/lonelygusenica/zakrivayuschiy-teg-ad
+https://github.com/nse137/zakrivayuschiy-teg-ad
